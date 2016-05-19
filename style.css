@@ -88,6 +88,15 @@ footer img {
 	body {
 		font-size: 75%;
 	}
+	h1 img {
+		width: 5em;
+	}
+
+	h1, h2 {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
 	main h2, main p {
 		text-align: left;
 	}
