@@ -75,12 +75,26 @@ footer img {
 	height: 2.5em;
 }
 
+.menu-item {
+	font-size: 0.9em;
+}
+
+.menu-item > a {
+	color: #ffffff;
+}
+
+.imprint h2,
+.imprint p {
+	text-align: left;
+}
+
+.imprint h2 {
+	font-size: 1.4em;
+}
+
 @media (min-width: 615px) {
 	main {
 		width: 35em;
-	}
-	footer {
-		height: 65px;
 	}
 }
 
@@ -110,4 +124,3 @@ footer img {
 		margin-bottom: 1em;
 	}
 }
-
