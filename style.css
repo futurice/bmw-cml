@@ -80,7 +80,7 @@ footer li {
 	font-size: 0.7em;
 }
 
-footer li:last-child {
+footer li.impressum {
 	display: block;
 	margin-top: 1.2em;
 	height: 100%;
