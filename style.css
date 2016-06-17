@@ -64,6 +64,7 @@ ul {
 
 footer {
 	background-color: #008C9E;
+	color: #000;
 	text-align: center;
 	position: fixed;
 	bottom: 0;
@@ -93,7 +94,7 @@ footer a {
 footer img {
 	margin-left: 0.5em;
 	margin-right: 1em;
-	height: 4em;
+	height: 3em;
 	vertical-align: middle;
 }
 
