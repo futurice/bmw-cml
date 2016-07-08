@@ -115,6 +115,26 @@ footer img {
 	font-size: 1.4em;
 }
 
+.footer-menu-item {
+	border-right: 1px solid #444444;
+	margin: 0;
+	padding: 0 10px;
+}
+
+.footer-menu-item:last-child {
+	border-right: 0;
+}
+
+.footer-menu-item > a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.footer-menu-item > a:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
 @media (min-width: 615px) {
 	main {
 		width: 35em;
